@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RegistroSena</string>
+    <string name="inscripciones_sena">Inscripciones Sena</string>
+    <string name="inscribirme">Inscribirme</string>
+    <string name="listar_programas">Listar Programas</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="identificacion">Identificacion</string>
+    <string name="correo">Correo</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="programa">Programa</string>
+</resources>
